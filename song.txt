@@ -8,7 +8,11 @@ Straying out of sanity
 Why can't you let me be?
 Is nothing else important?
 Does my mind mean more to you!?
+<<<<<<< HEAD
 Because if I carry on
 Deliver us from evil
 Screaming for your vanity
 ----------------------------------
+=======
+Because if I carry on 
+>>>>>>> cb7a495ecf29bc1bed6acc0540315e4aa03e5403
